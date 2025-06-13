@@ -34,6 +34,6 @@ Inputs to run
 3. Paste the PDF downloading location
 
 
-Uses: java 8 or above.
+Use java 8 or above.
 
 Set to Run.
