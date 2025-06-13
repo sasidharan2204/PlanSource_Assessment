@@ -17,7 +17,7 @@ Test Scenarios Covered
 Project Structure
 
 src - test - java - org.example - EnrollEmployee.java
-             resources - Driver - chromdriver.exe
+src - test - resources - Driver - chromdriver.exe
 
 Features Used
 
@@ -29,9 +29,10 @@ Features Used
 
 Inputs to run
 
-1. Enter the full employee details
-2. Enter the dependent details
-3. Paste the PDF downloading location
+1. Maintain the project structure as above and paste EnrollEmployee.java & chromedriver.
+2. Enter the full employee details
+3. Enter the dependent details
+4. Paste the PDF downloading location
 
 
 Use java 8 or above.
